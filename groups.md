@@ -64,7 +64,7 @@ These are the Groups for this class. Please group yourselves in teams of 3 or 4 
 * Logan Burbank
 
 ### Group 11 - GROUPNAME
-* Student 1
+* Abdulrahman Alamoudi
 * Student 2
 * Student 3
 * Student 4
